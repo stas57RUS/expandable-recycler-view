@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidApps-expandable-recycler-view.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidApps-expandable-recycler-view.iml" group="expandable-recycler-view" />
       <module fileurl="file://$PROJECT_DIR$/expandable-recycler-view.iml" filepath="$PROJECT_DIR$/expandable-recycler-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expandablecheckrecyclerview/expandable-recycler-view-expandablecheckrecyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/expandablecheckrecyclerview/expandable-recycler-view-expandablecheckrecyclerview.iml" group="expandable-recycler-view/expandablecheckrecyclerview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expandablerecyclerview/expandable-recycler-view-expandablerecyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/expandablerecyclerview/expandable-recycler-view-expandablerecyclerview.iml" group="expandable-recycler-view/expandablerecyclerview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/expandable-recycler-view-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/expandable-recycler-view-sample.iml" group="expandable-recycler-view/sample" />
       <module fileurl="file://$PROJECT_DIR$/expandablecheckrecyclerview/expandablecheckrecyclerview.iml" filepath="$PROJECT_DIR$/expandablecheckrecyclerview/expandablecheckrecyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/expandablerecyclerview/expandablerecyclerview.iml" filepath="$PROJECT_DIR$/expandablerecyclerview/expandablerecyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
